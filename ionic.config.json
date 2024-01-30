@@ -1,0 +1,7 @@
+{
+  "name": "HI1_T2_Interfaces",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
