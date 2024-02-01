@@ -4,6 +4,37 @@
   </ion-buttons>
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content class="ion-padding">
+
+  <ion-title>Personajes</ion-title>
+
+  <ion-grid>
+    <ion-row class="ion-align-items-stretch">
+      <ion-col size="12" size-md="6" size-lg="4" size-xl="3" *ngFor="let personaje of personajes">
+        <ion-card class="h-full relative">
+          <img [src]="personaje.imagen" alt="{{ personaje.nombre }} Icon" class="object-cover h-56 w-full">
+
+
+
+          <ion-card-header class="ion-align-items-center">
+            <div>
+              <a class="relative">
+                <img loading="eager" [src]="personaje.elementoImagen" alt="Elemento" class="w-6 drop-shadow-icon filter elementoimg">
+              </a>
+              <a class="relative">
+                <img loading="eager" [src]="personaje.caminoImagen" alt="Camino" class="w-6 drop-shadow-icon filter caminoimg">
+              </a>
+            </div>
+            <ion-card-subtitle>{{ personaje.nombre }}</ion-card-subtitle>
+            <div class="flex flex-row justify-center py-2">
+              <ng-container *ngFor="let star of personaje.estrellas; let i = index">
+                <ion-icon name="star" class="h-4 w-4 text-yellow-300"></ion-icon>
+              </ng-container>
+            </div>
+          </ion-card-header>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 
 </ion-content>
