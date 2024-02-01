@@ -1,19 +1,22 @@
-<ion-header [translucent]="true"></ion-header>
+<ion-header [translucent]="true">
+  <ion-buttons slot="start">
+    <ion-menu-button></ion-menu-button>
+  </ion-buttons>
+</ion-header>
 
 <ion-content [fullscreen]="true">
   <ion-grid>
     <ion-row>
       <ion-col size-md="8" size-lg="6" size-xl="4">
         <ion-card>
-          <ion-img src="/assets/icon/icon2.jpg"></ion-img>
+          <ion-img src="/assets/icon/imgport.jpg"></ion-img>
           <ion-card-content>
             <ion-card-title>
               ¡Bienvenido!
             </ion-card-title>
-            <hr class="h-px border-0 bg-neutral-600 mx-5">
-            <p>
+            <ion-card-content>
               En esta web encontrarás información sobre todo lo relacionado con el mundo de Honkai Star Rail.
-            </p>
+            </ion-card-content>
           </ion-card-content>
         </ion-card>
       </ion-col>
