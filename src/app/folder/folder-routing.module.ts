@@ -11,6 +11,26 @@ const routes: Routes = [
   {
     path: 'inicio',
     loadChildren: () => import('./inicio/inicio.module').then( m => m.InicioPageModule)
+  },
+  {
+    path: 'personajes',
+    loadChildren: () => import('./personajes/personajes.module').then( m => m.PersonajesPageModule)
+  },
+  {
+    path: 'conos',
+    loadChildren: () => import('./conos/conos.module').then( m => m.ConosPageModule)
+  },
+  {
+    path: 'artefactos',
+    loadChildren: () => import('./artefactos/artefactos.module').then( m => m.ArtefactosPageModule)
+  },
+  {
+    path: 'materiales',
+    loadChildren: () => import('./materiales/materiales.module').then( m => m.MaterialesPageModule)
+  },
+  {
+    path: 'recursos',
+    loadChildren: () => import('./recursos/recursos.module').then( m => m.RecursosPageModule)
   }
 ];
 

@@ -116,7 +116,7 @@ ion-note {
 }
 
 ion-item.selected {
-  --color: var(--ion-color-dark);
+  --color: var(--ion-text-color);
 }
 
 ion-icon[name="cono_luz"] {
@@ -157,4 +157,9 @@ ion-icon[name="recursos"] {
   background-size: contain;
   background-repeat: no-repeat;
   margin-right: 33px;
+}
+
+.custom-img {
+  width: 200px;
+  height: 200px;
 }

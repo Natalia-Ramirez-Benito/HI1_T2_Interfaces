@@ -3,9 +3,13 @@
     <ion-menu contentId="main-content" type="overlay">
       <ion-content>
         <ion-list id="inbox-list">
-          <ion-list-header>Honkai Star Rail</ion-list-header>
+          <ion-list-header style="margin-left: 120px">
+            <ion-avatar class="custom-img">
+              <img src="assets/icon/small_icon.jpg" alt="Pom Pom">
+            </ion-avatar>
+          </ion-list-header>
 
-          <ion-list>
+          <ion-list style="margin-left: 20px">
             <ion-menu-toggle auto-hide="false" *ngFor="let p of appPages; let i = index">
               <ion-item routerDirection="root" [routerLink]="[p.url]" lines="none" detail="false" routerLinkActive="selected">
                 <ng-container *ngIf="p.useIonicIcon; else customIcon">
