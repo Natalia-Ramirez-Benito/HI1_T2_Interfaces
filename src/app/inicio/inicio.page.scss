@@ -1,3 +1,9 @@
+ion-grid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 ion-row {
   height: auto;
   width: auto;
@@ -17,4 +23,3 @@ ion-img {
   margin: 0 auto;
   padding-top: 20px;
 }
-
