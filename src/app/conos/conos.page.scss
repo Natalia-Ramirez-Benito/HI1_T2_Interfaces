@@ -6,7 +6,7 @@ ion-title {
 }
 
 ion-card-subtitle {
-  font-size: 15px;
+  font-size: 17px;
   font-family: 'Tilt Neon', sans-serif;
   color: white;
 }
@@ -15,6 +15,7 @@ ion-card {
   display: flex;
   flex-direction: column;
   height: 100%;
+  width: 85%;
   background: linear-gradient(180deg, rgba(36,44,62,0) 0%, rgba(36,44,62,1) 67%, rgba(57,53,99,1) 79%, rgba(123,106,189,1) 100%);
 }
 

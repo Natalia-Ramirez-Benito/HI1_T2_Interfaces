@@ -166,39 +166,39 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Canino de borisin",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110181.png"
     },
     {
       nombre: "Diente serrado con lupitoxina",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110182.png"
     },
     {
       nombre: "Colmillo de la locura lunar",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110183.png"
     },
     {
       nombre: "Espíritu ardiente",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110221.png"
     },
     {
       nombre: "Esencia de fuego estelar",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110222.png"
     },
     {
       nombre: "Incinerador divino",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110223.png"
     },
     {
       nombre: "Nota del firmamento",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110231.png"
     },
     {
       nombre: "Compás celestial",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110232.png"
     },
     {
       nombre: "Movimiento celestial",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110233.png"
     },
     {
       nombre: "Ectoestela profunda",
@@ -262,11 +262,11 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Nevera de sueños",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110423.png"
     },
     {
       nombre: "Soplete de ensueño",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/110426.png"
     },
     {
       nombre: "Senda final del destructor",
@@ -358,27 +358,27 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Componente del acumulador de sueños",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/114001.png"
     },
     {
       nombre: "Válvula del flujo de sueños",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/114002.png"
     },
     {
       nombre: "Motor creasueños",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/114003.png"
     },
     {
       nombre: "Jirones de pensamientos",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/114011.png"
     },
     {
       nombre: "Fragmentos de impresiones",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/114012.png"
     },
     {
       nombre: "Fragmentos de deseos",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/114013.png"
     },
     {
       nombre: "Hertareum",
@@ -394,7 +394,7 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Relocréditos",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/120003.png"
     },
     {
       nombre: "Nuevo té Mezcla de Tingyun",
@@ -438,15 +438,15 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Tranquilidad",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/180010.png"
     },
     {
       nombre: "Sueños rotos",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/180011.png"
     },
     {
       nombre: "Engranaje oxidado",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/180012.png"
     },
     {
       nombre: "Componente",
@@ -502,15 +502,15 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Confusión",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/181014.png"
     },
     {
       nombre: "Hambre",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/181015.png"
     },
     {
       nombre: "Muela vieja",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/181016.png"
     },
     {
       nombre: "Materia extraña de la Destrucción",
@@ -546,11 +546,11 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "El ruido y la furia",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/182009.png"
     },
     {
       nombre: "Gel térmico",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/183006.png"
     },
     {
       nombre: "Hoja del árbol interdimensional",
@@ -570,11 +570,11 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Agotamiento",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/183005.png"
     },
     {
       nombre: "Cubo mecánico",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/182010.png"
     },
     {
       nombre: "Alimento nutritivo",
@@ -670,35 +670,35 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Pizza de reloj (porción)",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401021.png"
     },
     {
       nombre: "Pastel \"Observación de estrellas\" en trozos",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401022.png"
     },
     {
       nombre: "Tartaleta de limón del Sr. Arenque",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401023.png"
     },
     {
       nombre: "Helado mil capas (cero calorías)",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401024.png"
     },
     {
       nombre: "FelizAlma clásica",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401025.png"
     },
     {
       nombre: "Caramelo blando \"Sueños agrios\"",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401026.png"
     },
     {
       nombre: "Surtido de caramelos Colorsueños",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/401027.png"
     },
     {
       nombre: "Libertad momentánea",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/140399.png"
     },
     {
       nombre: "Aerosol curativo",
@@ -798,19 +798,19 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Ensalada de alfalfa",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/402025.png"
     },
     {
       nombre: "El momento de la traición",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/402026.png"
     },
     {
       nombre: "Felicidad efímera",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/402027.png"
     },
     {
       nombre: "Niebla de la duda",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/140396.png"
     },
     {
       nombre: "Brazo cinético desechable",
@@ -846,11 +846,11 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Al final de la vida",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/403009.png"
     },
     {
       nombre: "Ambiente animado",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/403010.png"
     },
     {
       nombre: "Basura",
@@ -902,7 +902,7 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Periódico",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/190013.png"
     },
     {
       nombre: "Pescado frito con mermelada",
@@ -962,19 +962,19 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Palomitas",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408415.png"
     },
     {
       nombre: "Hambre estruendosa",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408416.png"
     },
     {
       nombre: "Esperanza de un futuro mejor",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408417.png"
     },
     {
       nombre: "Jarabe de sueños dulces",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408418.png"
     },
     {
       nombre: "Salchicha de Belobog",
@@ -1010,55 +1010,55 @@ export class MaterialesPage implements OnInit {
     },
     {
       nombre: "Discoburger",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408609.png"
     },
     {
       nombre: "Pizza de reloj (entera)",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408610.png"
     },
     {
       nombre: "Helado de papas fritas",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408611.png"
     },
     {
       nombre: "Pasteles de roble",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408612.png"
     },
     {
       nombre: "Champán chispeante",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408613.png"
     },
     {
       nombre: "La mirada del asesino",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408614.png"
     },
     {
       nombre: "Odio hasta la muerte",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/140397.png"
     },
     {
       nombre: "Tenacidad perpetua",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408616.png"
     },
     {
       nombre: "Pluma del duelista",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408617.png"
     },
     {
       nombre: "Túnica de la desaparición",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408618.png"
     },
     {
       nombre: "Pasamontañas salvaje",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408619.png"
     },
     {
       nombre: "Cucurucho Dulces sueños (tres sabores)",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408801.png"
     },
     {
       nombre: "Todo o nada",
-      imagen: "https://www.starrailakademiya.com/new.png"
+      imagen: "https://api.yatta.top/hsr/assets/UI//item/408802.png"
     }
   ]
 
