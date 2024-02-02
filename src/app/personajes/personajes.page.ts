@@ -273,10 +273,7 @@ export class PersonajesPage implements OnInit {
       caminoImagen: 'https://api.yatta.top/hsr/assets/UI/profession/IconProfessionKnightSmall.png?vh=2023122401'
     },
   ];
-
   constructor() { }
-
   ngOnInit() {
   }
-
 }
