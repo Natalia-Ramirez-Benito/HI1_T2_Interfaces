@@ -1,0 +1,38 @@
+ion-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: 650;
+  font-family: 'Tilt Warp', sans-serif;
+}
+
+ion-card{
+  margin-bottom: 50px;
+  background: linear-gradient(0deg, rgba(54,55,72,1) 0%, rgba(93,95,125,0.9149859773010767) 45%, rgba(114,116,150,0.7861344366848302) 100%);
+}
+
+ion-card-title {
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: 50;
+  font-family: 'Tilt Warp', sans-serif;
+  color: white;
+}
+
+ion-card-content, p {
+  font-size: 17px;
+  font-family: 'Tilt Neon', sans-serif;
+  color: white;
+}
+
+span.negrita {
+  font-size: 17px;
+  font-weight: bolder;
+  font-family: 'Tilt Neon', sans-serif;
+  color: white;
+}
+
+ion-img {
+  margin: 20px;
+}
+
