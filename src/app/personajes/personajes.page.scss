@@ -5,6 +5,19 @@ ion-title {
   font-family: 'Tilt Warp', sans-serif;
 }
 
+ion-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 ion-card-subtitle {
   font-size: 15px;
   font-family: 'Tilt Neon', sans-serif;

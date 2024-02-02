@@ -1,0 +1,41 @@
+ion-title {
+  margin-top: 20px;
+  font-size: 50px;
+  font-weight: 650;
+  font-family: 'Tilt Warp', sans-serif;
+}
+
+ion-card {
+  background: linear-gradient(45deg, rgba(230,199,162,1) 0%, rgba(176,141,97,1) 29%, rgba(97,78,54,1) 100%);
+}
+
+ion-card-header {
+  background: #252525;
+  height: 68px;
+  width: auto;
+  justify-content: center;
+}
+
+ion-card-subtitle {
+  font-size: 15px;
+  font-family: 'Tilt Neon', sans-serif;
+  color: white;
+}
+
+img.artefactoimg {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+ion-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

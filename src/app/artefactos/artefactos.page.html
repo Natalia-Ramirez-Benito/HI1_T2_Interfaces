@@ -4,10 +4,30 @@
   </ion-buttons>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">artefactos</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content class="ion-padding">
+
+  <ion-title>Artefactos</ion-title>
+
+  <ion-grid>
+    <ion-row class="ion-align-items-stretch">
+      <ion-col size="12" size-md="6" size-lg="4" size-xl="3" *ngFor="let artefacto of artefactos">
+        <ion-card class="h-full relative">
+
+          <div class="card-content">
+            <img class="object-cover h-56 w-full artefactoimg" [src]="artefacto.imagen" alt="{{ artefacto.imagen }}">
+          </div>
+
+          <ion-card-header class="ion-align-items-center">
+            <div>
+              <a class="relative">
+                <ion-card-subtitle class="ion-text-center">{{ artefacto.nombre }}</ion-card-subtitle>
+              </a>
+            </div>
+          </ion-card-header>
+
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
 </ion-content>
